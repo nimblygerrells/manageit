@@ -1,2 +1,0 @@
-# manageit
-Created with CodeSandbox
